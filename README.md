@@ -24,17 +24,17 @@ file --> buildingSettings
 
 
 
-![截屏2021-02-15 下午6.11.52](/Users/rebecca/Library/Application Support/typora-user-images/截屏2021-02-15 下午6.11.52.png)
+![截屏2021-02-15 下午6.11.52](https://tva1.sinaimg.cn/large/008eGmZEgy1gnogbst7x4j30co0g8jsi.jpg)
 
 #### 引入到Android项目中
 
 以下文件放到Android 项目中对应位置（我仅导出arm-v7）
 
-![截屏2021-02-15 下午6.35.25](/Users/rebecca/Library/Application Support/typora-user-images/截屏2021-02-15 下午6.35.25.png)
+![截屏2021-02-15 下午6.35.25](https://tva1.sinaimg.cn/large/008eGmZEgy1gnogbrzc22j30fw0lmq4s.jpg)
 
 unity-classes.jar, armeabi-v7a放到Android project的app/libs目录下；assets文件夹放到app/src/main文件夹下，与java同级。Android Studio文件结构如下
 
-![截屏2021-02-15 下午6.40.50](/Users/rebecca/Library/Application Support/typora-user-images/截屏2021-02-15 下午6.40.50.png)
+![截屏2021-02-15 下午6.40.50](https://tva1.sinaimg.cn/large/008eGmZEgy1gnogbscq1sj30hu0mgwfy.jpg)
 
 gradle中添加（与buildTypes同级）
 
@@ -63,7 +63,7 @@ ndk.dir=.../Android/sdk/ndk/xxxx
 
 Android架构中应当看到
 
-![截屏2021-02-15 下午7.17.41](/Users/rebecca/Library/Application Support/typora-user-images/截屏2021-02-15 下午7.17.41.png)
+![截屏2021-02-15 下午7.17.41](https://tva1.sinaimg.cn/large/008eGmZEgy1gnogbrf9r3j30d2096mxv.jpg)
 
 ### Android Project
 
@@ -236,4 +236,4 @@ string.xml中添加
 
 运行项目即可看到unity场景嵌套在fragment中
 
-![Screenshot_20210215-192853](/Users/rebecca/Downloads/Screenshot_20210215-192853.png)
+![Screenshot_20210215-192853](https://tva1.sinaimg.cn/large/008eGmZEgy1gnogbq75dij30u01t00v0.jpg)
