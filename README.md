@@ -8,7 +8,7 @@ Android Studio打开 AndroidProject运行即可
 
 ### 新建项目
 
-首先新建一个unity项目和一个Android项目
+首先新建一个unity项目和一个Android项目，对应本demo的UnityScene和AndroidProject
 
 ### Unity Scene
 
