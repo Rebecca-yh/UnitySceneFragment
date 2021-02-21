@@ -237,4 +237,3 @@ string.xml中添加
 运行项目即可看到unity场景嵌套在fragment中
 
 ![Screenshot_20210215-192853](https://tva1.sinaimg.cn/large/008eGmZEgy1gnogbq75dij30u01t00v0.jpg)
-
